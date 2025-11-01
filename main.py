@@ -51,5 +51,5 @@ def query_player():
 
 
 
-# Now this function runs the code 
+# Now this function runs the code
 query_player()
